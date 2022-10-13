@@ -11,7 +11,7 @@ res = []
 
 if userinput == 1:
    res.append(n1)
-# generate fibonacci sequence
+#generate fibonacci sequence
 else:
    while count < userinput:
        res.append(n1)
