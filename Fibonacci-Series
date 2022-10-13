@@ -5,7 +5,7 @@ if(userinput < 1):
     exit()
 
 # first two terms
-n1, n2 = 0, 1
+n3, n5 = 0, 1
 count = 0
 res = []
 
@@ -15,10 +15,10 @@ if userinput == 1:
 else:
    while count < userinput:
        res.append(n1)
-       nth = n1 + n2
+       nth = n3 + n5
        # update values
-       n1 = n2
-       n2 = nth
+       n3 = n5
+       n5 = nth
        count += 1
     #end
     
