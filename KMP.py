@@ -12,7 +12,7 @@ def KMP(pattern:str, text:str)->int:
     m = 0
     n = 0
 
-    # matching the chacrachters of pattern with text
+    #matching the chacrachters of pattern with text
     while m != textLength:
         if text[m] == pattern[n]:
             m += 1
