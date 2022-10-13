@@ -1,5 +1,6 @@
-# pip3 install turtle
+# pip install turtle
 # USING TURTLE LIBRARY
+
 
 import turtle
 #The turtle module provides turtle graphics primitives, in both object-oriented and procedure-oriented ways. 
