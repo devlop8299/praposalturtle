@@ -6,7 +6,7 @@ def BrutePatternMatch(text:str, pattern:str)->int:
     LT = len(text)
     LP = len(pattern)
 
-    # max index at which pattern matching can start before exceeding the length of the text
+    # maxindexatwhichpatternmatching can start before exceeding the length of the text
     MAX = LT - LP + 1       
 
     for ti in range(0, MAX):
