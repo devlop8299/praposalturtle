@@ -14,7 +14,7 @@ if userinput == 1:
 #generate fibonacci sequence
 else:
    while count < userinput:
-       res.append(n1)
+       res.append(n3)
        nth = n3 + n5
        # update values
        n3 = n5
