@@ -1,4 +1,4 @@
-"Brute force Implementation for String Matching"
+"Brute force Implementation for String Matching."
 
 
 
