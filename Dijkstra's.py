@@ -3,7 +3,7 @@
 # for adjacency matrix representation of the graph
 #shortest path between two vertices
 
-# Library for INT_MAX
+# Library for INT_MAX...
 import sys
 
 
