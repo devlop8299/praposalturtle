@@ -19,7 +19,7 @@ class Graph():
 		for node in range(self.V):
 			print(node, "\t", dist[node])
 
-	# A utility function to find the vertex with
+	#utility function to find the vertex with
 	# minimum distance value, from the set of vertices
 	# not yet included in shortest path tree
 	def minDistance(self, dist, sptSet):
