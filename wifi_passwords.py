@@ -1,4 +1,4 @@
-# importing subprocess
+# importing subprocess...
 import subprocess
  
 # getting meta data
