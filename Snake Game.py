@@ -2,7 +2,7 @@ import turtle
 import time
 import random
 
-delay = 0.1
+delay = 0.5
 
 #Score
 score = 0
@@ -12,7 +12,7 @@ high_score = 0
 wn = turtle.Screen()
 wn.title("Snake Game By Sachin")
 wn.bgcolor("teal")
-wn.setup(width=600,height=600)
+wn.setup(width=800,height=700)
 wn.tracer(0) # Turns off the screen updates
 
 # Snake head
@@ -30,7 +30,7 @@ Food.speed(0)
 Food.shape("circle")
 Food.color("red")
 Food.penup()
-Food.goto(0,100)
+Food.goto(0,200)
 
 
 segments = []
