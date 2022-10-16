@@ -6,9 +6,6 @@
 ## A repository to contribute for hactoberfest
 
 ![Sparkle](Assets/sparkle.gif)
-Open source is changing the world – one contribution at a time.
-
-=====
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt
 
